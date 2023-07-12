@@ -2,7 +2,7 @@
 Celebal Tech Summer intern project.
 
 Group Members :
-Jagadeesh Pakalapati - jagadeeshpakalapati@gmail.com
+Jagadeesh Pakalapati - jagadeeshpakalapati@gmail.com 
 Manish Kumar - mk8051manish@gmail.com 
 Walzade Sakshi Rajendra - sakshiwalzade16@gmail.com
 Yadhuwanshi Rahul raaz - yadhuwanshirahulraaz@gmail.com
