@@ -12,7 +12,10 @@ Harshit - harshlf4@gmail.com <br>
 
 Google Colab : https://colab.research.google.com/drive/163MQb8mvF8aUmaVIpNOCHm6fI-FwEFF-?usp=sharing
 
-Exploratory Data Analysis in Tableau - https://public.tableau.com/views/RiskAssessment_16893662441290/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Exploratory Data Analysis in Tableau - 
+Risk Assessment.twbx file has been added to the repository which contains all the visualization.
+Online :
+https://public.tableau.com/views/RiskAssessment_16893662441290/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 <br>
 
 SRS : https://upesstd-my.sharepoint.com/:w:/g/personal/500082340_stu_upes_ac_in/EZEtUfKR4KxJjD_WCvnsVycBFQO1a_Ni-95mvm421WNEUQ?e=v10qaF
