@@ -4,15 +4,18 @@ def main():
     st.title("Credit Application Form")
 
     month = st.select_slider("Month", options=[1, 2, 3, 4, 5, 6, 7, 8])
-    age = st.text_input("Age", value="")
-    ssn = st.text_input("SSN", value="")
+    
     occupation = st.selectbox("Occupation", options=["Accountant", "Architect", "Developer", "Doctor", "Engineer",
                                                     "Entrepreneur", "Journalist", "Lawyer", "Manager", "Mechanic",
                                                     "Media_Manager", "Musician", "Scientist", "Teacher", "Writer"])
+    num_bank_accounts = st.select_slider("Month", options=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+    num_credit_cards = st.select_slider("Month", options=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])
+
+    age = st.text_input("Age", value="")
     annual_income = st.text_input("Annual Income", value="")
     monthly_inhand_salary = st.text_input("Monthly Inhand Salary", value="")
-    num_bank_accounts = st.text_input("Number of Bank Accounts", value="")
-    num_credit_cards = st.text_input("Number of Credit Cards", value="")
+    
+    
     interest_rate = st.text_input("Interest Rate", value="")
     num_of_loans = st.text_input("Number of Loans", value="")
     delay_from_due_date = st.text_input("Delay from Due Date", value="")
@@ -26,6 +29,8 @@ def main():
                                              "High_spent_Small_value_payments", "Low_spent_Large_value_payments",
                                              "Low_spent_Medium_value_payments", "Low_spent_Small_value_payments"])
     payment_of_min_amount = st.selectbox("Payment of Minimum Amount", options=["NM", "No", "Yes"])
+
+    # Credit_History_Age,Outstanding_Debt
 
     submit_button = st.button("Submit")
 
