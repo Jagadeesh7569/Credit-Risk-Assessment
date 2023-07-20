@@ -61,8 +61,8 @@ def process_form_data(Month, Age, Occupation, Annual_Income, Monthly_Inhand_Sala
     Total_Accounts = int(Num_Bank_Accounts) + int(Num_Credit_Card)
     Savings_to_Income_Ratio = Monthly_Savings / Annual_Income
 
-    encoders = joblib.load('encoders.joblib')
-    model = joblib.load('Random_Forest.joblib')
+    encoders = joblib.load('v2\encoders.joblib')
+    model = joblib.load('v2\Random_Forest.joblib')
 
 
     dataDict = {"Month": Month, 'Occupation': Occupation, 'Num_Bank_Accounts': Num_Bank_Accounts, 'Num_Credit_Card': Num_Credit_Card,
