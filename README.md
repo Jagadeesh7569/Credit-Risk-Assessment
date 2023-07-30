@@ -10,6 +10,14 @@ Khushi Bisht - khushibisht12112002@gmail.com <br>
 Harshit - harshlf4@gmail.com <br>
 <br>
 
+Contributions : <br>
+App development - Manish <br>
+Notebook Documentation - Rahul <br>
+PPT- Sakshi, Khushi <br>
+SRS - Jagdeesh <br>
+EDA, Model building, SRS, Api  - Harshit
+<br>
+
 LIVE LINK : https://huggingface.co/spaces/Tihsrah/Credit_Risk_Assessment
 
 Google Colab : https://colab.research.google.com/drive/163MQb8mvF8aUmaVIpNOCHm6fI-FwEFF-?usp=sharing
