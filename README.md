@@ -41,3 +41,4 @@ One drive : https://upesstd-my.sharepoint.com/:f:/g/personal/500082340_stu_upes_
 
 Dataset : https://www.kaggle.com/datasets/parisrohan/credit-score-classification <br>
 About the data : https://statso.io/credit-score-classification-case-study/
+About the data : https://statso.io/credit-score-classification-case-study/
